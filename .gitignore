@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Environment variables
 *.env
-backend/.env
+
 node_modules/
 =======
 # Logs
